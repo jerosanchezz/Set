@@ -1,4 +1,4 @@
-# Set---Puzzle-Game
+# Set
 
 Game rules defined here. Application includes two game modes - standard and time attack. Key features of first is find all sets until deck will be empty. If user can't find set, he can add three more cards by shacking the phone. Game automaticaly count number of available sets and adds cards if no one in the field. Key features of second is to find as much as possible sets in two minutes. Both, in the first and in the second mode user have three hints. If he wants more, he can watch ad (needed Internet connection) and get additional three. Advertising is realized by using Google Mobile Ads API. Used two types of ads - Interstitial and Rewarded Video. Whole application filled with the sounds.
 
